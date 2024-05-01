@@ -1,0 +1,2 @@
+Gerente{senha='senha123'}
+Gerente{senha='senhaLinda'}

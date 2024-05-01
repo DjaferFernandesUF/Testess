@@ -1,0 +1,3 @@
+Cliente{nome='Hilton', email='hilton@gmail.com', pontos=0, cartao=Silver{Divisor: 35.0}, valorASerPago=0.0}
+Cliente{nome='Heloísa', email='heloisa@gmail.com', pontos=0, cartao=Silver{Divisor: 35.0}, valorASerPago=0.0}
+Cliente{nome='Gabriel', email='gabriel@gmail.com', pontos=0, cartao=Silver{Divisor: 35.0}, valorASerPago=0.0}

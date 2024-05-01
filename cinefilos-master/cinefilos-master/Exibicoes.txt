@@ -1,0 +1,2 @@
+
+Exibicao{Sala{quantidadePoltronas=40, numeroDaSala=1, tipo=Sala3D, preco=15.0}, filme=Filme{titulo='Divertidamente', horarioDoFilme='14:20'}, quantidade Ingressos Disponivel=40, preco=15.0, data=''}
